@@ -6,8 +6,8 @@ email: molan315@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 漠兰的博客, molan, 漠兰, iOS, Apple, iPhone"
 url: "https://sunlanyun.github.io"          # your host, for absolute URL
-baseurl: "/molan"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/sunlanyun/molan" # you code repository
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/sunlanyun/sunlanyun.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
